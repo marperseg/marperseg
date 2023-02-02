@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 - High performance computing with CPU (OpenMP, MPI, intrinsics) and GPU (CUDA, CuBlas, CUDA Fortran PGI). 
 
 ## MY RESUME:
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mstefa&langs_count=5&theme=tokyonight)]()
+[![My Resume](https://github.com/marperseg/marperseg/blob/main/Mart%C3%ADn%20Eduardo%20P%C3%A9rez%20Segura_CV_p.pdf)]()
 
 
