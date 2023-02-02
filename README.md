@@ -1,7 +1,6 @@
 # Martín Eduardo Pérez Segura
 
-### Full Stack Web Developer
-#### (ENGINEER)
+### Full Stack Web Developer (ENGINEER)
 
 #
 
