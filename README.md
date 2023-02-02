@@ -46,4 +46,7 @@ Here are some ideas to get you started:
 - Computer Sciences: Software architecture, software design, data structure and algorithms design, hardware-awareness. Scientific programming, numerical experimentation.
 - High performance computing with CPU (OpenMP, MPI, intrinsics) and GPU (CUDA, CuBlas, CUDA Fortran PGI). 
 
+## MY RESUME:
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mstefa&langs_count=5&theme=tokyonight)]()
+
 
